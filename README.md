@@ -9,14 +9,14 @@
 ## 📖 Acerca del Proyecto
 **SmartCine WEB** es un aplicativo web diseñado para la gestión integral de un videoclub comercial. El objetivo principal de este proyecto es resolver problemas comunes de retrasos y falta de trazabilidad en procesos de ventas, alquileres, reservas y control de inventario. 
 
-Este proyecto fue desarrollado como **Proyecto Integrador de la asignatura Estructura de Datos** [cite: 6] [cite_start]para la **Universidad Técnica de Ambato (UTA)**. [citeDemuestra la aplicación práctica de Estructuras de Datos (Lineales y No Lineales) en un entorno de software realista.
+Este proyecto fue desarrollado como **Proyecto Integrador de la asignatura Estructura de Datos** para la **Universidad Técnica de Ambato (UTA)**. Demuestra la aplicación práctica de Estructuras de Datos (Lineales y No Lineales) en un entorno de software realista.
 
 ## 🧠 Estructuras de Datos Implementadas
 El núcleo lógico del sistema se basa en la implementación de las siguientes estructuras de datos, cada una resolviendo un requerimiento funcional (RF) específico del negocio:
 
 | Estructura | Módulo / Funcionalidad | Descripción (Regla de Negocio) |
 | :--- | :--- | :--- |
-| **Lista Simple** | *Inventario (Admin)* | Gestión principal del catálogo. [cite_start]Permite inserciones dinámicas y bajas definitivas de nodos (películas).
+| **Lista Simple** | *Inventario (Admin)* | Gestión principal del catálogo. Permite inserciones dinámicas y bajas definitivas de nodos (películas).
 | **Lista Doble** | *Historial (Cliente)* | Almacena las transacciones del cliente permitiendo una navegación cronológica bidireccional.
 | **Lista Circular** | *Cartelera (Cliente)* | Muestra los estrenos en un bucle infinito (carrusel) sin interrupciones. 
 | **Pila (LIFO)** | *Devoluciones (Empleado)* | "Buzón Rápido": El empleado procesa primero la última película que el cliente depositó físicamente. 
