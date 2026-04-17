@@ -25,14 +25,6 @@ El núcleo lógico del sistema se basa en la implementación de las siguientes e
 | **Grafo** | *Recomendaciones (Cliente)* | Motor inteligente que conecta nodos (películas) mediante aristas de similitud (ej. mismo director o actor).
 
 ---
-
-## 🚀 Instalación y Uso (Prototipo Frontend)
-Actualmente, el proyecto se encuentra en su fase de prototipo funcional interactivo, utilizando Vanilla JavaScript y `localStorage` para simular la persistencia de datos y las operaciones de las estructuras de datos.
-
-1. **Clonar el repositorio:**
-   ```bash
-   git clone [https://github.com/tu-usuario/SmartCine-WEB.git](https://github.com/tu-usuario/SmartCine-WEB.git)
-
 🔐 Credenciales de Acceso (Pruebas)
 El sistema cuenta con un enrutamiento basado en roles. Puedes utilizar las siguientes credenciales por defecto para explorar los diferentes módulos:
 Administrador (Gestión de inventario, Árbol y Reportes)
