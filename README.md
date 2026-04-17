@@ -39,8 +39,7 @@ Clave: 1234
 
 Estructura de Archivos
 📦 SmartCine-WEB
- ┣ 📜 index.html            
- # Punto de entrada (Login e Inicialización de LocalStorage)
+ ┣ 📜 index.html            # Punto de entrada (Login e Inicialización de LocalStorage)
  ┣ 📜 admin.html            # Dashboard del Administrador (CRUD Listas, Árbol, Reportes)
  ┣ 📜 empleado.html         # Terminal Operativa (Pila LIFO, Cola FIFO, Punto de Venta)
  ┣ 📜 cliente.html          # Portal Cliente (Carrusel, Catálogo, Grafo de Sugerencias)
