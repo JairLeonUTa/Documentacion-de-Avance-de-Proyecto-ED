@@ -4,7 +4,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Estado](https://img.shields.io/badge/Estado-Prototipo_Funcional-success?style=for-the-badge)
 
 ## 📖 Acerca del Proyecto
 **SmartCine WEB** es un aplicativo web diseñado para la gestión integral de un videoclub comercial. El objetivo principal de este proyecto es resolver problemas comunes de retrasos y falta de trazabilidad en procesos de ventas, alquileres, reservas y control de inventario. 
